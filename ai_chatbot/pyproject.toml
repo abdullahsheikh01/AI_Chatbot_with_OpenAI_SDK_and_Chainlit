@@ -1,0 +1,21 @@
+[project]
+name = "ai-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "abdullahsheikh01", email = "162831270+abdullahsheikh01@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.5.5",
+    "openai-agents>=0.0.17",
+    "python-dotenv>=1.1.0",
+]
+
+[project.scripts]
+ai-chatbot = "ai_chatbot:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
