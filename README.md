@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot Agent by [Abdullah Shaikh](https://www.linkedin.com/in/abdullah-shaikh-29699b302/)
+# 🤖 AI Chatbot Agent App by [Abdullah Shaikh](https://www.linkedin.com/in/abdullah-shaikh-29699b302/)
 
 Welcome to my AI Chatbot Agent! This project brings together the power of **Open Router** for large language model (LLM) capabilities, the **OpenAI Agents SDK** for intelligent agent setup, and **Chainlit** for a smooth and interactive frontend experience.
 
